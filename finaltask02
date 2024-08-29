@@ -2,7 +2,7 @@
 # Description: Write a script to get the output from comma-separated value.
 
 FILE_PATH="/c/Users/SU40134747/documents/shellscript/bsrtestsheet.csv"
-
+echo "subash"
 
 declare -A SERVER_DETAILS
 
