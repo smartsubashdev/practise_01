@@ -1,9 +1,10 @@
 cd #!/bin/bash
 # Description: Write a script to get the output from comma-separated value.
+# script is to get the values from the comma seprated fiels.
 
 FILE_PATH="/c/Users/SU40134747/documents/shellscript/bsrtestsheet.csv"
 echo "subash"
-echo "Reema"
+
 declare -A SERVER_DETAILS
 
 echo 
