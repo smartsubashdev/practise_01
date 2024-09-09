@@ -1,9 +1,9 @@
-#!/bin/bash
+cd #!/bin/bash
 # Description: Write a script to get the output from comma-separated value.
 
 FILE_PATH="/c/Users/SU40134747/documents/shellscript/bsrtestsheet.csv"
 echo "subash"
-echo "shahin"
+echo "Reema"
 declare -A SERVER_DETAILS
 
 echo 
