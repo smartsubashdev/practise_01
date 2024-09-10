@@ -3,11 +3,11 @@ cd #!/bin/bash
 # script is to get the values from the comma seprated fiels.
 
 FILE_PATH="/c/Users/SU40134747/documents/shellscript/bsrtestsheet.csv"
-echo "subash"
+
 
 declare -A SERVER_DETAILS
 
-echo 
+echo "Shahin" 
 
 echo "Enter 'A' to print the list by OS details"
 echo "Enter 'B' to print the list by disk details"
