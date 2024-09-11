@@ -4,7 +4,7 @@ cd #!/bin/bash
 
 FILE_PATH="/c/Users/SU40134747/documents/shellscript/bsrtestsheet.csv"
 
-
+echo "HELLO"
 declare -A SERVER_DETAILS
 
 
