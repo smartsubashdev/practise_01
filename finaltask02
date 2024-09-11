@@ -7,6 +7,7 @@ FILE_PATH="/c/Users/SU40134747/documents/shellscript/bsrtestsheet.csv"
 
 declare -A SERVER_DETAILS
 
+
 echo"adding a change for user222"
 
 echo "Enter 'A' to print the list by OS details"
