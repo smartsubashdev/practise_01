@@ -35,5 +35,9 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Execute the csvscript
-        run: ./finaltask02.sh
+        run: |
+          chmod 777 *.sh
+          ./finaltask02.sh
+
+        
 
