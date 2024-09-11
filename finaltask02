@@ -6,7 +6,7 @@ echo "subash"
 echo "shahin"
 declare -A SERVER_DETAILS
 
-echo 
+echo"adding a change for user"
 
 echo "Enter 'A' to print the list by OS details"
 echo "Enter 'B' to print the list by disk details"
